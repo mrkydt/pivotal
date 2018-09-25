@@ -4,6 +4,6 @@
 1. Login
 cf login [-a API_URL] [-u USERNAME] [-p PASSWORD] [-o ORG] [-s SPACE]
 ```
-cf login -a api.run.pivotal.io -u mrkydt@gmail.com -p 
+cf login -a api.run.pivotal.io -u mrkydt@gmail.com 
 ```
 
